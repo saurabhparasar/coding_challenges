@@ -9,7 +9,7 @@
 // }else if(avgScoreDolphins < avgScorekoalas){
 //     console.log(" team Koalas are the winner");
 // }else if(avgScoreDolphins === avgScorekoalas ){
-//     console.log(" both teams are the winner");
+//     console.log(" both of teams are the winner");
 // }
 
     // bonus data1:
